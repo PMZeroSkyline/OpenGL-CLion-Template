@@ -65,6 +65,10 @@ GL/glext.h
 D:/Projects/CPP/OpenGL-CLion-Template/Source/main.cpp
 iostream
 -
+window.h
+D:/Projects/CPP/OpenGL-CLion-Template/Source/window.h
+
+D:/Projects/CPP/OpenGL-CLion-Template/Source/window.h
 glad/glad.h
 -
 GLFW/glfw3.h

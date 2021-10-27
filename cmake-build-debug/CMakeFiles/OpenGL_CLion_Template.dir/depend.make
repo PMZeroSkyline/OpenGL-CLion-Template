@@ -9,4 +9,5 @@ CMakeFiles\OpenGL_CLion_Template.dir\Source\main.cpp.obj: ..\ThirdParty\glad\inc
 CMakeFiles\OpenGL_CLion_Template.dir\Source\main.cpp.obj: ..\ThirdParty\glad\include\glad\glad.h
 CMakeFiles\OpenGL_CLion_Template.dir\Source\main.cpp.obj: ..\ThirdParty\glfw\include\GLFW\glfw3.h
 CMakeFiles\OpenGL_CLion_Template.dir\Source\main.cpp.obj: ..\Source\main.cpp
+CMakeFiles\OpenGL_CLion_Template.dir\Source\main.cpp.obj: ..\Source\window.h
 
