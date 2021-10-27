@@ -1,9 +1,9 @@
 //
 // Created by Zero on 2021/10/28.
 //
+#ifndef MY_WINDOW_H
+#define MY_WINDOW_H
 #include <glad/glad.h>
-#ifndef MESHBUILDER_WINDOW_H
-#define MESHBUILDER_WINDOW_H
 #include <GLFW/glfw3.h>
 
 void framebuffer_size_callback(GLFWwindow* window, int width, int height)
@@ -59,4 +59,4 @@ void EventCloseWindow()
 {
     glfwTerminate();
 }
-#endif //MESHBUILDER_WINDOW_H
+#endif MY_WINDOW_H
